@@ -5,4 +5,4 @@ metadata:
 data:
   DB_PORT: "3306"            # Port for PostgreSQL
   DB_NAME: 
-  'test"  # Replace with your database name
+  "database-1"  # Replace with your database name
